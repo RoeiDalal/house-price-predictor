@@ -1,4 +1,4 @@
-Name: MLops CI
+name: MLops CI
 
 on:
   push:
